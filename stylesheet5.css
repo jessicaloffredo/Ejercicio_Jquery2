@@ -1,0 +1,13 @@
+div {
+    width: 50px;
+    padding: 10px;
+    height: 60px;
+    float: left;
+    margin: 5px;
+    background: red;
+    cursor: pointer;
+  }
+  .mod {
+    background: blue;
+    cursor: default;
+  }
